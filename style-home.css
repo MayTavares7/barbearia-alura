@@ -1,0 +1,49 @@
+
+#banner{
+    width: 100%;
+}
+.principal{
+    background-color: rgb(194, 153, 233);
+    padding: 30px;
+}
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-central{
+    text-align: center
+}
+p{
+    text-align: center;     
+}
+
+ #quemsomos{
+    font-size: 20px; 
+}
+
+em strong{
+    color: #ffffff;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+
+    background: #ffffff;
+    padding: 20px;
+}
+ul{
+    display: inline-block; 
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15% ;
+}
+
+.beneficiosimg{
+    width:50% ;
+   
+}
+
+
